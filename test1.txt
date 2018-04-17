@@ -1,0 +1,10 @@
+ Il volume nell'unit… C Š Acer
+ Numero di serie del volume: 94DC-81E2
+
+ Directory di C:\Users\Davide\Desktop\MyProject
+
+17/04/2018  21:03    <DIR>          .
+17/04/2018  21:03    <DIR>          ..
+17/04/2018  21:03                 0 test1.txt
+               1 File              0 byte
+               2 Directory  565.335.937.024 byte disponibili
